@@ -16,4 +16,3 @@
   - ls -a => show all hidden files in a folder (hidden files have a . at the start eg. .gitignore)
   - ls -R => show the folder hierarchy and containing files
   - ls -d $PWD/\* => show all files in folder with their path
-  - this line is a mistake
