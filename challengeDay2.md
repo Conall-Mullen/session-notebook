@@ -17,4 +17,5 @@
   - cat _filename_ => shows the contents of a file in the terminal
   - ls -a => show all hidden files in a folder (hidden files have a . at the start eg. .gitignore)
   - ls -R => show the folder hierarchy and containing files
-  - ls -d $PWD/\* => show all files in folder with their path
+  - ls -d $PWD\* => show all files in folder with their path
+  - code . => opens current directory in VS code
