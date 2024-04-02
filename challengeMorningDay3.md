@@ -1,5 +1,9 @@
 # Notes and hints
 
+- git add _filename_ => adds file to be committed
+- git add . => adds current directory to be committed
+- git commit -m _comment on commit_ => creates new commit
+- git push _remote repo name_ _branchname_ => pushes commit to repo on named branch. Repo typically named origin, main branch typically named main.
 - git switch => switch branches
 - git switch -c _branchname_ => create a new named branch and switch to it
 - git branch => list branches in repository
